@@ -4,4 +4,4 @@ button: 'About us'
 weight: 2
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+We're here for you. Neat-o pamphlets, awesome pictures, crazy and unique branding, these are our specialty. Take a look at some of our prior projects and let us know how we can help!
